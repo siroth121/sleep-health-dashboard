@@ -36,7 +36,7 @@ def style_axes(ax):
 
 
 app = Flask(__name__)
-DATA_PATH = "main.csv"
+DATA_PATH = "data/main.csv"
 df = pd.read_csv(DATA_PATH)
 
 home_visit_count = 0
