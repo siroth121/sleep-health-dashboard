@@ -4,6 +4,9 @@
 
 This project explores relationships between lifestyle factors (physical activity, stress, occupation) and sleep outcomes using an interactive web dashboard. It was built as a **portfolio project for data analyst and data science internships**, emphasizing applied analysis, experimentation, and clear communication of insights.
 
+Dataset source: Sleep Health and Lifestyle Dataset from Kaggle
+# https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
+
 ---
 
 ## Project Overview
